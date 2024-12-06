@@ -1,3 +1,5 @@
+# Work in Progress
+
 # File Renamer CLI
 
 A powerful file renaming tool built with Node.js and TypeScript.
